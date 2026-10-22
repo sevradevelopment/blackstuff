@@ -1,0 +1,519 @@
+{
+  "admin": {
+    "username": "admin",
+    "passwordHash": "$2b$10$/klzwYpD8UbeBCmPD9UlZuf0ENUzXqTJmij5S8bEktQ6jkI8vx3xO"
+  },
+  "categories": [
+    {
+      "id": "kapslid",
+      "name": "Kapslid",
+      "slug": "kapslid"
+    },
+    {
+      "id": "pulbrid",
+      "name": "Pulbrid",
+      "slug": "pulbrid"
+    },
+    {
+      "id": "komplektid",
+      "name": "Komplektid",
+      "slug": "komplektid"
+    },
+    {
+      "id": "muud",
+      "name": "Muud tooted",
+      "slug": "muud"
+    }
+  ],
+  "siteContent": {
+    "heroTitle": "Loodusest inspireeritud. Teadlikult loodud.",
+    "heroSubtitle": "Avasta Black Stuff ja loodusest pärinevad koostisosad, millele meie tooted tuginevad.",
+    "brandIntroTitle": "Männikoor ja chaga – ühes läbimõeldud valemis",
+    "brandIntroBody": "Black Stuff on looduslik prebiootiline toidulisand, mille koostisosad – fulviin- ja humiinhapped, polüfenoolid ning ligniinid – pärinevad männikoore ja musta pässiku (chaga) ekstraktidest. Toode põhineb patenteeritud HUFULAC® ühendil ning valmib kääritamise ja tuletamise protsessi käigus ilma lisaainete ja maitseparandajateta.",
+    "scienceBlurb": "Black Stuffi on uuritud ja testitud muu hulgas Hamiltoni laboris, Auctoritase laboris, Riia Stradiņši Meditsiiniülikoolis ning Läti Ülikoolis. Tutvu uuringute ülevaatega ja laboritulemustega.",
+    "ctaTitle": "Avasta loodusest inspireeritud tooted.",
+    "aboutBody": "Meie missioon on tuua inimesteni teadlikkus ja kvaliteet, pakkudes teekonda, mis on nauditav ja lihtsasti kättesaadav. Black Stuff sündis Eestis. Asutajad töötasid välja tooted koostöös Innovaatilise Biomeditsiinitehnoloogia Instituudiga, ühendades üle 25 aasta biomeditsiinikogemust looduslike koostisosade teadmisega. Blackstuff OÜ (reg. 14915619) toob selle kvaliteedi eestlasteni.",
+    "contactEmail": "info@blackstuff.ee",
+    "contactPhone": "+372 5814 4423",
+    "companyName": "Blackstuff OÜ",
+    "registryCode": "14915619",
+    "freeShippingFrom": 100
+  },
+  "products": [
+    {
+      "id": "p-caps-90",
+      "slug": "black-stuff-90-kapslit",
+      "name": "Black Stuff pulber, 90 kapslit",
+      "shortDescription": "Toidulisand polüfenoolide ja fulvohapetega. 90 kapslit – kolme kuu varu.",
+      "description": "Black Stuff on looduslik kontsentreeritud toidulisand, mis koosneb kahest põhikoostisosast: männikoore ekstrakt ja musta pässiku (chaga) ekstrakt. Mõlemad ekstraktid sisaldavad looduslikult esinevaid fulvohappeid, ligniine ja polüfenoole nende looduslikus, eraldamata ja bioaktiivses vormis. Toode valmib kääritamise ja tuletamise protsessi käigus; retseptis ei ole lisaaineid ega lõhna- või maitseparandajaid.",
+      "ingredients": "Männikoore ekstrakt, musta pässiku (chaga) ekstrakt. Kapslid laktoosivabast materjalist (vegan).",
+      "usage": "0,6 g (1 kapsel) päevas soovitavalt koos esimese toidukorraga. Purgis 90 päeva varu. Parima tulemuse saavutamiseks tarvitada 90-päevase kuurina.",
+      "extraInfo": "Netokogus: 54 g (90 kapslit). Toidulisand. Toidulisandid ei asenda mitmekesist ja tasakaalustatud toitumist ega tervislikku eluviisi.",
+      "price": 89,
+      "compareAtPrice": null,
+      "image": "/products/caps-90.webp",
+      "gallery": [
+        "/products/caps-90.webp",
+        "/nature/caps-lifestyle.webp"
+      ],
+      "categoryId": "kapslid",
+      "stock": 120,
+      "published": true,
+      "featured": true,
+      "netWeight": "54 g"
+    },
+    {
+      "id": "p-caps-30",
+      "slug": "black-stuff-30-kapslit",
+      "name": "Black Stuff pulber, 30 kapslit",
+      "shortDescription": "Sama valem mugavas 30 kapsli pakendis – ideaalne alustamiseks.",
+      "description": "Black Stuff on looduslik kontsentreeritud toidulisand männikoore ja musta pässiku (chaga) ekstraktidest. Ekstraktid sisaldavad fulvohappeid, ligniine ja polüfenoole looduslikus, bioaktiivses vormis; lisanditeta retsept.",
+      "ingredients": "Männikoore ekstrakt, musta pässiku (chaga) ekstrakt. Kapslid laktoosivabast materjalist (vegan).",
+      "usage": "0,6 g (1 kapsel) päevas koos esimese toidukorraga. Pakis 30 päeva varu. Soovitus: 90-päevase kuurina.",
+      "extraInfo": "Netokogus: 18 g (30 kapslit). Toidulisand.",
+      "price": 33,
+      "compareAtPrice": null,
+      "image": "/products/caps-30.webp",
+      "gallery": [
+        "/products/caps-30.webp"
+      ],
+      "categoryId": "kapslid",
+      "stock": 150,
+      "published": true,
+      "featured": false,
+      "netWeight": "18 g"
+    },
+    {
+      "id": "p-powder",
+      "slug": "black-stuff-pulber-30g",
+      "name": "Black Stuff pulber, 30g",
+      "shortDescription": "Mitmekülgne prebiootiline pulber jookidesse ja toitudesse. 60 annust.",
+      "description": "Toidulisand polüfenoolide ja fulvohapetega. Koostis: männikoore ekstrakt ja musta pässiku (chaga) ekstrakt. Sisaldab fulvohappeid, ligniine ja polüfenoole; valmistatud kääritamise ja tuletamise protsessi käigus, ilma lisaaineteta. Kergelt vaniljemaitseline pulber lahustub vees hästi.",
+      "ingredients": "Männikoore ekstrakt, musta pässiku (chaga) ekstrakt.",
+      "usage": "0,5 g (1/3 teelusikatäit) päevas lahustatuna vees, mahlas, kohvis või muus joogis. Soovitus 90-päevase kuurina.",
+      "extraInfo": "Netokogus: 30 g (60 annust). Toidulisand.",
+      "price": 59,
+      "compareAtPrice": null,
+      "image": "/products/powder.webp",
+      "gallery": [
+        "/products/powder.webp",
+        "/nature/nature-2.webp"
+      ],
+      "categoryId": "pulbrid",
+      "stock": 90,
+      "published": true,
+      "featured": true,
+      "netWeight": "30 g"
+    },
+    {
+      "id": "p-refill",
+      "slug": "black-stuff-pulber-taitepakend",
+      "name": "Black Stuff pulber, täitepakend, 30g",
+      "shortDescription": "Täitepakend põhipurki – sama koostis, vähem pakendit.",
+      "description": "Toidulisand polüfenoolide ja fulvohapetega. Black Stuff koosneb männikoore ja musta pässiku (chaga) ekstraktidest. Fulvohapped, ligniinid ja polüfenoolid looduslikus vormis; ilma lisaainete ja maitse-/lõhnaaineteta.",
+      "ingredients": "Männikoore ekstrakt, musta pässiku (chaga) ekstrakt.",
+      "usage": "0,5 g päevas lahustatuna joogis; 90-päevase kuurina.",
+      "extraInfo": "Netokogus: 30 g (60 annust). Täitepakend põhipurki. Toidulisand.",
+      "price": 55,
+      "compareAtPrice": null,
+      "image": "/products/powder-refill.webp",
+      "gallery": [
+        "/products/powder-refill.webp"
+      ],
+      "categoryId": "pulbrid",
+      "stock": 80,
+      "published": true,
+      "featured": false,
+      "netWeight": "30 g"
+    },
+    {
+      "id": "p-oxifit",
+      "slug": "oxifit-spordijoogi-pulber",
+      "name": "OxiFit spordijoogi pulber",
+      "shortDescription": "Spordijoogi pulber aktiivsele eluviisile – ilma lisatud suhkrute ja kofeiinita.",
+      "description": "Spordijoogi pulber aktiivse eluviisi toetamiseks enne või pärast füüsilist koormust. Koostise võtmekomponendid: kontsentreeritud punapeedimahla pulber, kartuli maltodekstriin, hariliku männi koore ekstrakt. Sobib veganitele.",
+      "ingredients": "Kontsentreeritud punapeedimahla pulber, kartuli maltodekstriin, hariliku männi koore ekstrakt. Täpne koostisosade loetelu – kinnitada pakendilt.",
+      "usage": "1 mõõtelusikatäis 200 ml vees; enne intensiivset pingutust. 1 annus päevas = 30 päeva.",
+      "extraInfo": "Netokogus: 195 g (30 annust). Toidulisand.",
+      "price": 49,
+      "compareAtPrice": null,
+      "image": "/products/oxifit.webp",
+      "gallery": [
+        "/products/oxifit.webp"
+      ],
+      "categoryId": "muud",
+      "stock": 60,
+      "published": true,
+      "featured": true,
+      "netWeight": "195 g"
+    },
+    {
+      "id": "p-spray",
+      "slug": "black-stuff-nahasprei",
+      "name": "Black Stuff kollageeniga mikrobioomi nahasprei, 100ml",
+      "shortDescription": "Prebiootiline sprei näo, kaela ja juuste jaoks kollageeniga.",
+      "description": "Kollageeniga mikrobioomi nahasprei – prebiootiline sprei näo, kaela ja juuste jaoks. Lehe järgi sobib ka tundlikule ja laste nahale. Prebiootikumid ja kollageen toetavad naha mikrobioomi ning niisutust.",
+      "ingredients": "Black Stuffi ja kollageeni baasil prebiootiline segu. Täpne INCI – kinnitada pakendilt.",
+      "usage": "Pihusta puhtale nahale hommikul ja õhtul või vajadusel; võib kasutada ka juustele.",
+      "extraInfo": "Maht: 100 ml. Kosmeetikatoode / hooldustoode.",
+      "price": 39,
+      "compareAtPrice": null,
+      "image": "/products/spray.webp",
+      "gallery": [
+        "/products/spray.webp"
+      ],
+      "categoryId": "muud",
+      "stock": 70,
+      "published": true,
+      "featured": true,
+      "netWeight": "100 ml"
+    },
+    {
+      "id": "p-happy",
+      "slug": "happy-tummy",
+      "name": "Happy Tummy magus trühvel",
+      "shortDescription": "Black Stuffi valem datlipasta, linaseemnejahu ja kakaoga magusa trühvlina.",
+      "description": "Toidulisand polüfenoolide ja fulvohapetega looduslikult magusa trühvlina. Black Stuffi valem (männikoor + chaga) datlipasta, linaseemnejahu ja kakaopulbriga. Vegan, gluteenivaba; ilma kunstlike lisanditeta.",
+      "ingredients": "Datlipasta, linaseemnejahu, kakaopulber, männikoore ekstrakt, musta pässiku ekstrakt. Täpne koostis – kinnitada pakendilt.",
+      "usage": "1 trühvel (6 g) päevas soovitavalt peale sööki. Pakendis 30 päeva varu; soovitus 90-päevase kuurina. Sobib lastele, kes söövad tahket toitu.",
+      "extraInfo": "Netokogus: 180 g (30 trühvlit × 6 g). Toidulisand.",
+      "price": 49,
+      "compareAtPrice": null,
+      "image": "/products/happy-tummy.webp",
+      "gallery": [
+        "/products/happy-tummy.webp"
+      ],
+      "categoryId": "muud",
+      "stock": 55,
+      "published": true,
+      "featured": false,
+      "netWeight": "180 g"
+    },
+    {
+      "id": "p-depara",
+      "slug": "deparatox-taimne-kompleks",
+      "name": "DeParaTox taimne kompleks, 72 kapletti",
+      "shortDescription": "Taimne kompleks seedimise ja heaolu toetuseks – 72 kapletti.",
+      "description": "Toidulisand loodusliku kompleksiga. Taimede kooslus: koirohi, nelk, kaneel, männikoore ja musta pässiku ekstraktid, kurkum, nõges, kummel – ühes kapletis.",
+      "ingredients": "Koirohi, nelk, kaneel, männikoore ekstrakt, musta pässiku ekstrakt, kurkum, nõges, kummel. Täpne koostis – kinnitada pakendilt.",
+      "usage": "Soovituslik annus: järgi pakendi juhendit. Tüüpiliselt taimsete komplekside puhul 1–2 kapletti päevas koos toiduga — kinnita lõplik annus pakendilt enne tarvitamist.",
+      "extraInfo": "Netokogus: 72 g (72 kapletti). Toidulisand. Täpne päevane annus: kinnitada pakendilt.",
+      "price": 59,
+      "compareAtPrice": null,
+      "image": "/products/deparatox.webp",
+      "gallery": [
+        "/products/deparatox.webp"
+      ],
+      "categoryId": "muud",
+      "stock": 45,
+      "published": true,
+      "featured": false,
+      "netWeight": "72 g"
+    },
+    {
+      "id": "p-3x",
+      "slug": "3x-black-stuff-pulber",
+      "name": "3x Black Stuff pulber, 30g",
+      "shortDescription": "Kolme purgi komplekt – perele või varuks eri kohtades.",
+      "description": "Komplekt: kolm 30 g purki mõõtelusikaga (kokku 180 portsjonit). Black Stuff: männikoore ja musta pässiku ekstraktid; fulvohapped, ligniinid, polüfenoolid looduslikus vormis.",
+      "ingredients": "Männikoore ekstrakt, musta pässiku (chaga) ekstrakt.",
+      "usage": "0,5 g päevas lahustatuna joogis. Vt üksiku pulbri juhendit.",
+      "extraInfo": "Netokogus: 30 g × 3 purki. Toidulisand.",
+      "price": 125,
+      "compareAtPrice": 147,
+      "image": "/products/bundle-3x.webp",
+      "gallery": [
+        "/products/bundle-3x.webp"
+      ],
+      "categoryId": "komplektid",
+      "stock": 40,
+      "published": true,
+      "featured": false,
+      "netWeight": "90 g"
+    },
+    {
+      "id": "p-bundle-oxi",
+      "slug": "black-stuff-90-oxifit",
+      "name": "Black Stuff pulber, 90 kapslit + OxiFit spordijoogi pulber",
+      "shortDescription": "Kapslite ja spordijoogi komplekt aktiivsele elustiilile.",
+      "description": "Komplekt sisaldab Black Stuff 90 kapslit ja OxiFit spordijoogi pulbrit. Säästlik valik neile, kes ühendavad igapäevase toidulisandi ja treeningujoogi.",
+      "ingredients": "Vt eraldi toodete koostisi: Black Stuff kapslid ja OxiFit.",
+      "usage": "Vt eraldi toodete kasutusjuhendeid.",
+      "extraInfo": "Komplekt. Toidulisandid.",
+      "price": 110.4,
+      "compareAtPrice": 138,
+      "image": "/products/bundle-oxi.webp",
+      "gallery": [
+        "/products/bundle-oxi.webp"
+      ],
+      "categoryId": "komplektid",
+      "stock": 30,
+      "published": true,
+      "featured": false
+    },
+    {
+      "id": "p-year",
+      "slug": "black-stuff-pulber-aasta",
+      "name": "Black Stuff pulber, 30g + 5 täitepakendit",
+      "shortDescription": "Pikk varu: põhipurk koos viie täitepakendiga.",
+      "description": "Komplekt: Black Stuff pulber 30 g koos 5 täitepakendiga. Sobib neile, kes soovivad pikemat varu väiksema pakendijäljega.",
+      "ingredients": "Männikoore ekstrakt, musta pässiku (chaga) ekstrakt.",
+      "usage": "0,5 g päevas lahustatuna joogis.",
+      "extraInfo": "Komplekt. Toidulisand.",
+      "price": 267.2,
+      "compareAtPrice": 334,
+      "image": "/products/bundle-year.webp",
+      "gallery": [
+        "/products/bundle-year.webp"
+      ],
+      "categoryId": "komplektid",
+      "stock": 20,
+      "published": true,
+      "featured": false
+    },
+    {
+      "id": "p-4x",
+      "slug": "4x-black-stuff-90-kapslit",
+      "name": "4 x Black Stuff kapslid, 90tk",
+      "shortDescription": "Neli purki (360 portsjonit) – aasta varu endale või perele.",
+      "description": "Toidulisand polüfenoolide ja fulvohapetega. Netokogus: 54 g (90 kapslit) × 4 purki. Black Stuff: männikoore ja musta pässiku ekstraktid.",
+      "ingredients": "Männikoore ekstrakt, musta pässiku (chaga) ekstrakt.",
+      "usage": "1 kapsel päevas koos esimese toidukorraga.",
+      "extraInfo": "Komplekt: 4 × 90 kapslit. Toidulisand.",
+      "price": 284.8,
+      "compareAtPrice": 356,
+      "image": "/products/bundle-4x.webp",
+      "gallery": [
+        "/products/bundle-4x.webp"
+      ],
+      "categoryId": "komplektid",
+      "stock": 25,
+      "published": true,
+      "featured": false
+    },
+    {
+      "id": "p-bundle-depara",
+      "slug": "black-stuff-90-deparatox",
+      "name": "Black Stuff pulber, 90 kapslit + DeParaTox, 72 kapletti",
+      "shortDescription": "Kapslite ja DeParaToxi taimse kompleksi kooslus.",
+      "description": "Komplekt sisaldab Black Stuff 90 kapslit ja DeParaTox taimset kompleksi 72 kapletti.",
+      "ingredients": "Vt eraldi toodete koostisi.",
+      "usage": "Vt eraldi toodete kasutusjuhendeid.",
+      "extraInfo": "Komplekt. Toidulisandid.",
+      "price": 118.4,
+      "compareAtPrice": 148,
+      "image": "/products/bundle-depara.webp",
+      "gallery": [
+        "/products/bundle-depara.webp"
+      ],
+      "categoryId": "komplektid",
+      "stock": 28,
+      "published": true,
+      "featured": false
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "b1",
+      "slug": "miks-tanapaeva-seedimine-ei-toota-nagu-peaks-ja-mida-utleb-teadus",
+      "title": "Miks tänapäeva seedimine “ei tööta nagu peaks” ja mida ütleb teadus?",
+      "author": "Maria Kruusenvald",
+      "excerpt": "PROBLEEM: Regulaarsed seedehäired ja pidev ebamugavustunne kõhus. Paljudel inimestel esinevad regulaarselt puhitused, kõhuvalu, ebamugav raskustunne ning ebastabiilne energiatase. Teadus kirjeldab selget musterpunkti: soolestiku sisekeskkonna tasakaal on muutunud.",
+      "content": "## PROBLEEM: Regulaarsed seedehäired ja pidev ebamugavustunne kõhus\n\nPaljudel inimestel esinevad regulaarselt:\n\n- puhitused, kõhuvalu, ebamugav raskustunne,\n- juhuslik kõhulahtisus või -kinnisus,\n- kõrvetised või põletav tunne ülakõhus,\n- ebastabiilne energiataset,\n- aeglane taastumine ja üldine „uimane“ enesetunne.\n\nNeed sümptomid võivad tunduda juhuslikud, kuid teadus kirjeldab üht selget musterpunkti: **soolestiku sisekeskkonna tasakaal on muutunud.**\n\n![Töödeldud toidud](/blog/inline/seedimine-toit.webp)\n\n## MIKS SEE JUHTUB? (teaduspõhine selgitus)\n\nSoolestiku funktsioon sõltub kolmest kriitilisest tegurist.\n\n### 1) Mikrobioomi tasakaalu nihkumine\n\nAntibiootikumid, stress, magusad/snack-toidud, vähene kiudaine ja ületöödeldud menüü võivad vähendada kasulike bakterite mitmekesisust. Düsbioos mõjutab:\n\n- seedimist,\n- immuunsüsteemi signaale,\n- sooleseina tugevust,\n- energiatootmist.\n\nTeadus näitab, et humiin- ja fulvohapped, polüfenoolid ja ligniinid võivad toetada mikrobioomi tasakaalu ja kasulike bakterite (sh Akkermansia) kasvu.\n\n### 2) Soolestiku barjäär muutub nõrgemaks\n\nKui soolestiku limaskest ei ole enam piisavalt „tihe“, võivad toiduosakesed, endotoksiinid ja bakterite jääkained pääseda vereringesse. Seda nimetatakse soolestiku läbilaskvuse tõusuks. See võib väljenduda:\n\n- kõhuvaluna,\n- ebaregulaarse seedimisega,\n- põletikuliste signaalidega.\n\nMitmed tööd viitavad, et humiinained võivad aidata barjääri terviklikkust normaliseerida.\n\n### 3) Liigne toksiinikoormus ja madal antioksüdantne kaitse\n\nAastatega kuhjuvad nii dieedist, keskkonnast kui stressist pärinevad ühendid, mida keha peab neutraliseerima ja välja viima. Fulvohapetel, ligniinidel ja polüfenoolidel on teaduskirjanduses kirjeldatud mitmeid:\n\n- kelateerivaid,\n- antioksüdatiivseid,\n- ja detoksifikatsiooni toetavaid mehhanisme.\n\nNeed ei **ravi**, kuid võivad toetada organismi loomulikku puhastumisprotsessi ja taastumist.\n\n![Värsked toiduained](/blog/inline/seedimine-toitained.webp)\n\n## LAHENDUS: Loo esmalt tingimused, kus soolestik päriselt taastub\n\nToitumise muutused ja eridieedid võivad aidata, kuid need toimivad pikaaegselt ainult siis, kui alustalad — mikrobioom + limaskest + soolestiku keskkond — on toetatud.\n\nFulvo- ja humiinhapped, ligniinid ning polüfenoolid kuuluvad looduslike ühendite hulka, millel on uuringutes näidatud potentsiaal:\n\n- toetada limaskesta terviklikkust,\n- stabiliseerida seedimist,\n- vähendada põletikulisi signaale,\n- parandada üldist heaolu.\n\nNeid leidub muuhulgas **Black Stuffi lignofenoolses ekstraktis**.\n\n![Black Stuff pulber](/blog/inline/seedimine-pulber.webp)\n\n## MIDA NÄITAB 4-NÄDALANE BLACK STUFFI PILOOTUURING?\n\n(31 osalejat · vanus 18–80 · 2024)\n\nUuringu eesmärk oli hinnata, kuidas Black Stuff mõjutab kõige levinumaid seedetrakti kaebuseid (GTS – gastrointestinal symptoms) ühe kuu jooksul.\n\n### Olulisemad leiud\n\n### Üldine heaolu paranes järjepidevalt\n\nOsalejate üldise heaolu koondhinne tõusis:\n\n- 32.2% → esimesel päeval\n- 41.9% → 14. päeval\n- 48.4% → 30. päeval\n\nTulemuste vahel oli tugev positiivne korrelatsioon (rs = 0.813; p < 0.01).\n\n### Kõige suurem mõju: kõhulahtisus ja kõrvetised\n\nUuringu käigus registreeriti:\n\n- kõhulahtisuse märgatav vähenemine 14. ja 30. päeva vahel (rs = 0.817; p < 0.001)\n- põletustunde vähenemine ülakõhus nii 0 → 14 päeva (rs = 0.996; p < 0.001) kui 0 → 30 päeva (rs = 0.876; p < 0.001)\n\nMärkus: tegemist on korrelatsioonidega — need ei tõesta põhjuslikku seost, kuid näitavad selget mustrit.\n\n### Füüsiline tervis ja igapäevane funktsioneerimine paranesid\n\nFüüsilise tervise muutus:\n\n- tugev positiivne korrelatsioon 14 → 30 päeva (rs = 0.909; p < 0.001)\n\nIgapäevased tegevused:\n\n- mõõdukalt tugevad positiivsed seosed 0 → 14 ja 0 → 30 päeva vahel.\n\n### Positiivne mõju ka vaimsele heaolule\n\nVaimse heaolu muutus näitas:\n\n- mõõdukalt tugevat positiivset korrelatsiooni kõigil mõõtmistel (0d ↔ 14d ↔ 30d)\n\n### Bristoli skaala järgi väljaheite konsistents ei muutunud statistiliselt\n\nKuigi enesetunde näitajad paranesid, ei toimunud olulist muutust väljaheite kuju osas.\n\n### Mida see tähendab?\n\nPilootuuringu tulemused viitavad, et järjepidev Black Stuffi kasutamine võib toetada seedimise mugavust, vähendada ebamugavust põhjustavaid sümptomeid ja parandada üldist heaolu 4 nädala jooksul. Tegemist oli pilootuuringuga — tulemusi tuleb kinnitada suuremates kliinilistes uuringutes, kuid esialgne suund on lubav.\n\n## Tervise parandamine algab baastasakaalust, mitte üksikutes sümptomites kinni olemisest\n\nTeaduspõhine vaade on selge: kui mikrobioom, limaskest ja soolestiku keskkond saavad tagasi oma loomuliku tasakaalu, siis muutuvad:\n\n- seedesümptomid stabiilsemaks,\n- heaolu paraneb,\n- energia ühtlustub.\n\nBlack Stuffi kompleks – fulvo- ja humiinhapped, ligniinid ja polüfenoolid – on üks looduslikest viisidest selle taustsüsteemi toetada. Ja pilootuuring annab sellele suunale esimesed inimandmetel põhinevad viited.\n\n:::split\nHappy Tummy – eriti tundlikule seedimisele ja lastele\n/blog/inline/seedimine-happy-tummy.webp\nHappy Tummy on loodud selleks, et toetada kõige tundlikumaid kõhtusid. Black Stuffi eriline lignofenoole sisaldav koostis aitab stabiliseerida seedimist, vähendada puhitus- ja raskustunde sümptomeid ning toetada soolestiku loomulikku tasakaalu.\nEriti sobib see lastele, kelle seedimine võib olla veel õrn ja ebastabiilne – Happy Tummy aitab toetada nende igapäevast energiat, mugavustunnet ja üldist heaolu. Lapsed saavad Black Stuffi nautida magusa trühvli kujul, mis teeb igapäevase manustamise lihtsaks ja maitsvaks.\n:::\n\n:::products\nhappy-tummy|Happy Tummy magus trühvel|Sobib ideaalselt neile, kellel on tundlikum seedimine, eriti armastavad seda lapsed.|/products/happy-tummy.webp\nblack-stuff-pulber-30g|Black Stuff pulber|Pulber purgis millest jätkub kaheks kuuks. Kaasas on ka mõõtelusikas millega on mugav pulbrit manustada – võib lisada joogiveele, kohvile, teele, smuutisse jne.|/products/powder.webp\nblack-stuff-90-kapslit|Black Stuff pulber kapslites|Ühest purgist jätkub kolmeks kuuks. Kui eelistad toidulisandeid kapslina ning ei soovi lusikaga manustada.|/products/caps-90.webp\n:::\n\n## Teadusallikad ja kirjandus\n\n### Humiin- ja fulvohapete ning ligniin-poliifenoolide mõju kohta\n\n- Winkler J, Ghosh S. Therapeutic Potential of Fulvic Acid in Chronic Inflammatory Diseases and Diabetes. J Diabetes Res. 2018.\n- Maguey-González J.A. et al. Assessment of the Impact of Humic Acids on Intestinal Integrity. 2024.\n- Huang J. et al. Humic acids alleviate colitis by modulating microbiota and barrier. Front Microbiol. 2023.\n- Horniblow R.D. et al. Intestinal iron bio-accessibility changes by lignin and related polyphenolics. Food & Function. 2023.\n- Sánchez-Moya T. et al. Pine bark extract impacts gut microbiota and probiotic growth. 2024.\n- Hu Y. et al. Inonotus obliquus polysaccharides regulate gut microbiota. 2017.\n\n### Black Stuffi 4-nädalane pilootuuring\n\nEffect of a Four-Week Course of the Food Additive “Black Stuff” on Common Digestive Complaints. 2024. 31 osalejat · 4 nädalat · subjektiivsed seedetrakti ja heaolu näitajad · statistiline analüüs Spearman korrelatsiooniga.\n",
+      "image": "/blog/miks-tanapaeva-seedimine-ei-toota-nagu-peaks-ja-mida-utleb-teadus.webp",
+      "publishedAt": "2025-11-30",
+      "published": true,
+      "needsReview": true,
+      "sourceUrl": "https://blackstuff.ee/miks-tanapaeva-seedimine-ei-toota-nagu-peaks-ja-mida-utleb-teadus/"
+    },
+    {
+      "id": "b2",
+      "slug": "terviskorda",
+      "title": "Väsimus, unetus, seedeprobleemid või nahamured?",
+      "author": "Maria Kruusenvald",
+      "excerpt": "Kui oled proovinud kõike, kuid tulemusteta, võib Black Stuff olla see, mis tõesti aitab. Püüame süüa tervislikult ja võtta vitamiine, aga ikkagi on tihti energia madal, uni katkendlik ja näost vaatab vastu väsimus.",
+      "content": "Kui oled proovinud kõike, kuid tulemusteta, võib Black Stuff olla see, mis tõesti aitab.\n\n:::split\n-\n/blog/inline/vasimus-elustiil.webp\nPüüame süüa tervislikult ja võtta vitamiine, aga ikkagi on tihti energia madal, uni katkendlik ja näost vaatab vastu väsimus. Miks?\nMeie keha ei saa toitaineid täielikult kasutada ilma humiin- ja fulvohapeteta. Need toimivad kui “võtmed”, mis avavad rakkude ukse vitamiinidele ja mineraalidele.\n- Fulvohape seob toitained ja viib need rakkudesse, isegi läbi vere-aju barjääri.\n- Humiinhape tugevdab soolestiku limaskesta, seob toksiine ja toetab mikrobioomi.\nIlma nendeta liiguvad ka parimad toidulisandid lihtsalt kehast läbi. Humiin- ja fulvohapped taastavad keha loomuliku omastamisvõime, et toit saaks päriselt energiat ja elujõudu anda.\nPaljud kasutajad on kogenud, et Black Stuff toetab keha just siis, kui igapäevaelus kerkivad üles:\n- Väsimus ja kurnatus – vajad lisaenergiat, et päevast maksimum võtta\n- Unehäired – soovid rahulikumat und ja värskemat ärkamist\n- Seedimise tugi – kui kõht ei tööta päris nii, nagu võiks\n- Naha heaolu – väiksemad mured nagu konnasilmad või muud ebamugavused\n:::\n\n:::split-rev\nKuidas see töötab?\n/blog/inline/vasimus-bark.webp\nBlack Stuff ei ole imerohi, vaid naturaalne toidulisand, mis aitab sinu kehal leida oma tasakaalu.\nBlack Stuff põhineb humiin- ja fulvohapetel. Need on looduslikud ühendid, mis aitavad kehal:\n- toetada toitainete imendumist,\n- hoida tasakaalu seedesüsteemis,\n- toetada organismi loomulikku kaitsevõimet,\n- viia välja see, mis sinna ei kuulu.\n:::\n\n:::split\nMiks valida Black Stuff?\n/blog/inline/vasimus-chaga.webp\nBlack Stuff on looduslik kontsentreeritud toidulisand, mis koosneb kahest põhikoostisosast:\n- Männikoore ekstrakt\n- Musta pässiku (chaga) ekstrakt\n:::\n\n:::checks\nArendatud Eestis, toodetud Lätis – kindel kvaliteet ja läbipaistev päritolu\nLoodud teadlaste poolt – läbinud mitmeid teadusuuringuid ülikoolides ning saanud kinnitust toimes\nLooduslik koostis – ei midagi üleliigset\nKasutajate kogemused – paljud on leidnud leevendust oma igapäevamuredele\n:::\n\n## Toote omadused\n\n- **Looduslikud koostisosad:** retseptis ei ole kasutatud lisaaineid ega lõhna- või maitseparandajaid.\n- **Tänapäevane tootmine:** toode valmib ainulaadse kääritamise ja tuletamise protsessi käigus.\n- **Sisaldab looduslikke ühendeid:** mõlemad ekstraktid sisaldavad looduslikult esinevaid fulvohappeid, ligniine ja polüfenoole – nende looduslikus, eraldamata ja bioaktiivses vormis.\n\n## Taust\n\n- **Inspireeritud traditsioonidest:** männikoorest ja chaga’st pärit sissevõetavaid valmistisi on pikaajaliselt kasutatud erinevate rahvaste toidutraditsioonides.\n- **Kaasaegne arendus:** Black Stuff ühendab ajaloolise kogemuse ja tänapäevase tehnoloogia.\n\n:::banner\n/blog/inline/vasimus-bark.webp\nBlack Stuff ei ole vitamiin ega ravim – see on puuduv link sinu ja toitainete vahel. Tänu sellele saavad rakkudes toimida toitained nii, nagu looduse poolt ette nähtud ja keha saab paremini kasutada seda, mis juba olemas on. See aitab lahendada igapäevaseid muresid, millega paljud on pikalt maadelnud, näiteks väsimus, rahutu uni, nahaprobleemid, seedimise ebamugavused.\nErinevalt paljudest teistest turul olevatest humiin- ja fulvohappe toidulisanditest eristub Black Stuff eelkõige oma puhtuse ja teaduspõhise tootmisviisi poolest. Enamik humiinhappeid sisaldavaid tooteid on valmistatud mullast või taimsetest allikatest, mille täpne koostis on määramata – selline tooraine võib aga sisaldada raskmetalle, mis kogunevad kehasse ja võivad pikaajaliselt põhjustada tõsiseid terviseprobleeme. Raskmetallid on seotud närvisüsteemi kahjustuste, maksakoormuse, hormonaaltasakaalu häirete ning isegi vähiriski suurenemisega.\nBlack Stuffi loojad mõistsid selle probleemi juba varakult ning pöördusid täiesti uue suuna poole: nad töötasid välja patendeeritud tootmismeetodi, mis põhineb fermenteeritud chaga ja männikoore ekstraktil – täpselt doseeritud ja kontrollitud koostisega segul, mis on täielikult raskmetallidest vaba. Tänu sellele on Black Stuff mitte ainult tõhusam, vaid ka turvaline ja stabiilse kvaliteediga toidulisand, mille toime toetab organismi loomulikku taastumis- ja kaitsevõimet ilma kahjulike kõrvalmõjudeta.\n:::\n\n:::gallery\n/blog/inline/vasimus-gal-1.webp\n/blog/inline/vasimus-gal-2.webp\n/blog/inline/vasimus-gal-3.webp\n/blog/inline/vasimus-gal-4.webp\n:::\n\n:::products\nhappy-tummy|Happy Tummy magus trühvel|Sobib ideaalselt neile, kellel on tundlikum seedimine, eriti armastavad seda lapsed.|/products/happy-tummy.webp\nblack-stuff-pulber-30g|Black Stuff pulber|Pulber purgis millest jätkub kaheks kuuks. Kaasas on ka mõõtelusikas – võib lisada joogiveele, kohvile, teele, smuutisse jne.|/products/powder.webp\nblack-stuff-90-kapslit|Black Stuff pulber kapslites|Ühest purgist jätkub kolmeks kuuks. Kui eelistad toidulisandeid kapslina ning ei soovi lusikaga manustada.|/products/caps-90.webp\n:::\n",
+      "image": "/blog/terviskorda.png",
+      "publishedAt": "2025-11-30",
+      "published": true,
+      "needsReview": true,
+      "sourceUrl": "https://blackstuff.ee/terviskorda/"
+    },
+    {
+      "id": "b3",
+      "slug": "peedi-kasulikkus-tervisele-ja-sportlikule-sooritusele",
+      "title": "Peedi kasulikkus tervisele ja sportlikule sooritusele",
+      "author": "Maria Kruusenvald",
+      "excerpt": "This is a heading. Peedi kasulikkus tervisele ja sportlikule sooritusele Kuidas looduslik nitraat toetab aktiivset eluviisi? Peet on üks neist tagasihoidlikest juurviljadest, mis on vaikselt saanud tõeliseks staariks nii tervisehuviliste kui sportlaste seas. Põhjus on lihtne: looduslikud nitraadid, mis mängivad olulist rolli vereringe toetamisel ja hapniku tõhusamal kasutamisel. Aga peedi mõju ulatub kaugemale kui ainult [&hellip;]",
+      "content": "This is a heading.\n\nPeedi kasulikkus tervisele ja sportlikule sooritusele\n\nKuidas looduslik nitraat toetab aktiivset eluviisi?\n\nPeet on üks neist tagasihoidlikest juurviljadest, mis on vaikselt saanud tõeliseks staariks nii tervisehuviliste kui sportlaste seas. Põhjus on lihtne: looduslikud nitraadid, mis mängivad olulist rolli vereringe toetamisel ja hapniku tõhusamal kasutamisel. Aga peedi mõju ulatub kaugemale kui ainult parem vastupidavus – see puudutab ka taastumist, vererõhku ja üldist heaolu.\n\nPeet ja looduslikud nitraadid\n\nPeedis olevad nitraadid muunduvad organismis lämmastikoksiidiks – molekuliks, mis lõdvestab veresooni ja parandab verevoolu. Tulemuseks on parem hapniku liikumine lihastesse ja tõhusam energiakasutus treeningu ajal.\n\nUuringud näitavad, et peedimahla regulaarne tarbimine võib:\n\n•\n\nvähendada treeningu aegset hapnikukulu,\n\n•\n\nparandada vastupidavust,\n\n•\n\nja pikendada aega, kuni tekib väsimus.\n\nTeisisõnu: kehal on lihtsam sama töö ära teha väiksema pingutusega.\n\nLihasjõud ja väsimuse edasilükkamine\n\nNitraadid toetavad ka lühiajalist jõudlust. Mõned uuringud viitavad sellele, et need võivad parandada lihaste maksimaalset jõudu ja kiirendada fosfokreatiini taastumist. See tähendab, et lihased jõuavad intensiivsete pingutuste vahepeal kiiremini „uuesti valmis“ saada.\n\nMuidugi ei mõju nitraadid kõikidel ühtemoodi – rolli mängivad nii treenitus, individuaalsed eripärad kui ka tarbitav kogus. Aga paljudel aktiivsetel inimestel on mõju tuntav.\n\nTaastumine ja veresoonte tervis\n\nPeet ei ole ainult nitraatide allikas. See sisaldab ka antioksüdante nagu polüfenoolid ja betalaiinid, mis aitavad vähendada treeningust tekkinud oksüdatiivset stressi. Lisaks toetab peet veresoonte sisekihi talitlust, mis võib pärast intensiivsemat treeningut ajutiselt veidi halveneda.\n\nLühidalt: peet aitab kehal kiiremini tasakaalu taastada.\n\nMõju vererõhule\n\nPeedi veresooni laiendav toime võib aidata ka vererõhku alandada. Uuringud on korduvalt näidanud, et peedimahl võib avaldada mõõdukat vererõhku langetavat mõju — nii tervetel inimestel kui ka neil, kellel on kõrgem risk.\n\nSee ei tee peedist ravimit, aga see on loomulik toetaja vereringe heaolule.\n\nOxiFit - looduslik spordijook\n\nOxiFit spordijoogi pulber on loodud üsna lihtsa loogika järgi: kui peedimahl on kasulik, siis miks mitte pakkuda seda mugavas ja kiirelt kasutatavas vormis?\n\nOxiFiti peamine koostisosa on peedimahla pulber — sama naturaalne nitraatide allikas, mille mõju kohta on tehtud kümneid uuringuid.\n\nLisaks sellele sisaldab OxiFit:\n\n•\n\nkartuli maltodekstriini – kiirelt kättesaadav energia,\n\n•\n\nhariliku männi koore ekstrakti, milles on polüfenoole ja fulvohappeid – looduslik tugi taastumisele.\n\nMärkimisväärne on see, mida OxiFit ei sisalda: kofeiini ega kunstlikke lisandeid. See sobib neile, kes eelistavad puhtaid ja looduslikke koostisosi.\n\nOxiFit ei pretendeeri asendama treeningut või mitmekesist toitumist. Pigem on ta loomulik väike lisa – mugav viis saada nitraate, energiat ja antioksüdante hetkedel, kui treening või päevaplaan seda vajab.\n\nMiks sünteetilised spordijoogid ja lisandid võivad kehale kahju teha?\n\nKuigi paljud sünteetilised spordijoogid lubavad kiiret energiat ja paremat vastupidavust, kaasneb nende regulaarse tarbimisega ka varjupool. Enamik neist toodetest on loodud laboris, kasutades koostisosi, mis ei toimi kehas sama kooskõlaliselt ega õrnalt kui looduslikud ained. Sportlaste tervise seisukohalt on kõige haavatavamad just soolestiku mikrofloora ja keha detoksikatsiooniga seotud organid.\n\n1. Sünteetilised magusained võivad kahjustada soolestiku mikrobioomi\n\nPaljud spordijoogid sisaldavad kunstlikke magusaineid nagu aspartaam, atsesulfaam K, sukraloos või sahhariin. Uuringud näitavad, et need:\n\n•\n\nmuudavad soolestiku bakterite kooslust ebasoodus suunas\n\n•\n\nvähendavad heade bakterite mitmekesisust\n\n•\n\nvõivad tõsta soole läbilaskvust (leaky gut efekt)\n\n•\n\nmõjutavad veresuhkru regulatsiooni sõltumata kalorisisaldusest\n\nSoolestiku mikrobioom on sportlase jaoks äärmiselt oluline – see osaleb põletiku alandamises, energiavahetuses ja immuunsuse töös. Sünteetilised magusained võivad selle tasakaalu häirida isegi väikestes kogustes.\n\n2. Kunstlikud värvained ja säilitusained tekitavad lisakoormust maksale\n\nSünteetilised spordijoogid sisaldavad sageli:\n\n•\n\nvärvaineid\n\n•\n\nstabilisaatoreid\n\n•\n\nsäilitusaineid\n\n•\n\nsünteetilisi maitseaineid\n\nNeed ühendid ei anna kehale mingit bioloogilist väärtust, kuid maks peab need ikkagi detoksifitseerima. Aja jooksul võib pidev tarbimine lisada maksale koormust, mis mõjutab keha loomulikke taastumisprotsesse ning vähendab võimet põletikku kontrollida.\n\n3. Liigne sünteetiline kofeiin ja stimulandid koormavad neerusid\n\nEnergiajoogid ja osa spordilisandeid sisaldavad kontsentreeritud kofeiini või teisi erguteid. Need võivad:\n\n•\n\ntõsta vererõhku\n\n•\n\nsuurendada stressihormoone (kortisool)\n\n•\n\ntõsta neerude filtratsioonikoormust\n\n•\n\npõhjustada vedelikukaotust ja elektrolüütide tasakaalu häireid\n\nAktiivse inimese jaoks on see riskantne, sest dehüdratsioon ja elektrolüütide kõikumine mõjutavad otseselt lihaste tööd ja taastumist.\n\n4. Sünteetilised süsivesikud võivad põhjustada seedetrakti ärritust\n\nOdavad spordijoogid kasutavad sageli rafineeritud suhkruid või kõrge osmolaarsusega siirupeid (nt glükoosisiirup), mis võivad:\n\n•\n\ntõsta veresuhkrut liiga järsult\n\n•\n\ntekitada puhitusi või gaase\n\n•\n\npõhjustada kõhulahtisust või kõhukrampe\n\nTreeningu ajal võib see tähendada jõudluse langust ja ebamugavustunnet.\n\n5. Looduslike ühendite puudumine tähendab vähem tuge rakutasandil\n\nKunstlikud spordijoogid annavad sageli ainult:\n\n•\n\nsuhkrut\n\n•\n\nelektrolüüte\n\n•\n\nmaitseaineid\n\n•\n\nvärve\n\nPuuduvad looduslikud bioaktiivsed ühendid – näiteks polüfenoolid, fulvohapped, looduslikud nitraadid, antioksüdandid –, mida keha tegelikult vajab rakulise taastumise, põletikuregulatsiooni ja hapnikukasutuse parendamiseks.\n\nSünteetiline jook võib kustutada janu ja anda suhkrust energia, kuid ei toeta organismi terviklikult.\n\nMiks eelistada looduslikku spordijooki?\n\n•\n\ntoetab soolestiku mikrofloorat, sest ei sisalda kunstlikke magusaineid\n\n•\n\nei koorma maksa ega neere sünteetiliste lisaainetega\n\n•\n\ntoetab keha loomulikku energiavahetust ja põletikuprotsesse looduslike ühendite kaudu\n\n•\n\ntöötab koos kehaga, mitte selle vastu\n\n•\n\nbioaktiivsed ühendid (nt peedist pärit nitraadid, polüfenoolid, fulvohapped) on kergesti omastatavad ja kehale toetavad\n\nJust seetõttu valivad üha enam sportlasi looduslikud spordijoogid – need ei tekita kehas “peidetud hinda”, mida sünteetiliste toodete tarbimisega makstakse.\n\nOxifit spordijoogi pulber + Black Stuff pulber\n\nKoos ostes -20% ning täiendavad üksteist - terviseteadliku spordisõbra kombo.\n\nOsta siit\n\nOxifit spordijoogi pulber\n\nLoodud aktiivsetele inimestele, kes hindavad looduslikku päritolu koostisosi ning puhtaid maitseid.\n\nOsta siit\n\nViited teadusuuringutele mille põhjal postitus on koostatud\n\n1. Uuring peedimahla mõjust hapnikukululehttps://www.sciencepg.com/article/10.11648/j.ajss.20140204.15\n\n2. Peedimahla mõju VO₂ maksile naissportlastel (PubMed)https://pubmed.ncbi.nlm.nih.gov/39796497/\n\n3. Peedimahla mõju jalgpallurite sooritusele (PubMed)https://pubmed.ncbi.nlm.nih.gov/28327503/\n\n4. Nitraatide mõju lihasjõule (ScienceDaily)https://www.sciencedaily.com/releases/2023/01/230123083441.htm\n\n5. Nitraatide mõju fosfokreatiini taastumisele (JISSN)https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0204-9\n\n6. Peedimahla antioksüdantsed omadused (RealSimple)https://www.realsimple.com/food-recipes/recipe-collections-favorites/popular-ingredients/beet-juice-benefits\n\n7. Peedimahla mõju vererõhule (Times of India)https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/beetroot-juice-can-control-high-bp-finds-study-heres-how-to-prepare-this-healthy-drink-without-harming-your-kidneys/photostory/123673104.cms\n\n8. Peedimahla mõju kõrgmäestikus treenivatele sportlastele (PubMed)https://pubmed.ncbi.nlm.nih.gov/25942474/\n\n9. Kunstlike magusainete mõju soolestiku mikrobioomi mitmekesisusele (2025)https://pubmed.ncbi.nlm.nih.gov/40443994/\n\n10. Magusainete ja soolemikroobide seosed – süstemaatiline ülevaadehttps://pubmed.ncbi.nlm.nih.gov/30721958/\n\n11. Kunstlikud magusained soodustavad biofilmi teket ja soolerakkudesse tungimist (in vitro)https://pubmed.ncbi.nlm.nih.gov/34063332/\n\n12. Kunstlikud magusained muudavad oluliselt peensoole mikrobioomihttps://www.cedars-sinai.org/newsroom/research-alert-artificial-sweeteners-significantly-alter-the-small-bowel-microbiome/\n\n13. Kunstlikud magusained ja suurenenud soole läbilaskvus (“leaky gut”)https://link.springer.com/article/10.1007/s42452-025-07107-w\n\n14. Kunstlike magusainete pikaajalised tervisemõjud – kriitiline ülevaadehttps://pubmed.ncbi.nlm.nih.gov/39878083/\n\n15. Kunstlikud magusained ja lühiahelaliste rasvhapete tootmise häired soolestikushttps://gjeta.com/sites/default/files/GJETA-2023-0015.pdf",
+      "image": "/blog/peedi-kasulikkus-tervisele-ja-sportlikule-sooritusele.png",
+      "publishedAt": "2025-11-20",
+      "published": true,
+      "needsReview": true,
+      "sourceUrl": "https://blackstuff.ee/peedi-kasulikkus-tervisele-ja-sportlikule-sooritusele/"
+    },
+    {
+      "id": "b4",
+      "slug": "parasiidid",
+      "title": "Parasiidid inimese soolestikus. Miks nad tekivad ja miks on oluline teha parasiidikuuri 1–2 korda aastas?",
+      "author": "Maria Kruusenvald",
+      "excerpt": "Parasiidid inimese soolestikus. Miks nad tekivad ja miks on oluline teha parasiidikuuri 1–2 korda aastas? Me räägime parasiitidest sageli nii, nagu need oleksid midagi eksootilist, midagi, mis puudutab ainult kolmanda maailma riike. Tegelikkus on aga vastupidine: parasiidid on väga levinud ning nende esinemine ei ole sugugi haruldane.Lisaks ei ole parasiidid ainult ussid väljaheites – [&hellip;]",
+      "content": "Parasiidid inimese soolestikus. Miks nad tekivad ja miks on oluline teha parasiidikuuri 1–2 korda aastas?\n\nMe räägime parasiitidest sageli nii, nagu need oleksid midagi eksootilist, midagi, mis puudutab ainult kolmanda maailma riike. Tegelikkus on aga vastupidine: parasiidid on väga levinud ning nende esinemine ei ole sugugi haruldane.\n\nLisaks ei ole parasiidid ainult ussid väljaheites – enamus ajast me ei näegi neid oma silmaga, sest nad elavad ja tegutsevad meie keha sees nähtamatult.\n\nTeadusuuringud näitavad, et inimene puutub parasiitidega kokku igapäevaselt: toidust, mullast, loomadest, veest ja keskkonnast. Küsimus pole enam kas me puutume nendega kokku, vaid kas meie keha sisekeskkond lubab neil püsima jääda.\n\nKuidas parasiidid tekivad ja miks nad saavad kehasse kinnituda?\n\nParasiidid ei armasta tervet ja hästi toimivat keha. Nad vajavad:\n\n•\n\nstagnatsiooni (aeglane seedimine, kõhukinnisus)\n\n•\n\nvähest hapnikku soolestikus\n\n•\n\nmineraalivaest keskkonda\n\n•\n\nnõrgenenud mikrobioomi\n\n•\n\nbiliaarse voolu aeglustumist (sapp ei liigu hästi)\n\nKui seedimine on aeglane, soolesein muutub läbilaskvamaks (“leaky gut”) ja keha ei suuda jäätmeid välja viia siis tekib organismi sisemusse “seisev ala”, millest parasiidid elavad. Nad toituvad:\n\n•\n\nseedimata toidust\n\n•\n\npõletikulistest protsessidest\n\n•\n\nsu mikrobioomi tasakaalutusest\n\n•\n\nja isegi sinu enda toitainetest\n\nLühidalt: parasiidid ei ole sissetungijad. Nad on tagajärg.Sissepääs toimub nagunii kuid püsima jäämine vajab soodsat keskkonda.\n\nMiks teha parasiidikuuri 1–2 korda aastas?\n\nNagu puhastame oma kodu kevadel ja sügisel, on loogiline puhastada ka oma “sisemist maastikku”.\n\nParasiidikuur aitab:\n\n•\n\ntaaskäivitada seedimise ja sapivoolu\n\n•\n\nvähendada põletikku soolestikus\n\n•\n\ntoetada maksa detoksifikatsiooni\n\n•\n\nparandada nahka, und ja hormonaalset stabiilsust\n\n•\n\ntugevdada immuunsust\n\nUuringud näitavad, et parasiidid mõjutavad ka meeleolu ja neurokeemiat läbi soolestiku–aju telje.Seega, ärevus, “ajuudu”, ärrituvus ja suhkruisu võivad olla kehast tulevad signaalid, mitte “karakteriprobleemid”.\n\nVeel tasub meeles pidada, et sünteetilised parasiidivastased ravimid hävitavad lisaks parasiitidele ka kogu hea, tervisliku mikrofloora, samal ajal kui looduslikud lahendused toetavad keha ja mikrobioomi tasakaalu, vähendades kõrvaltoimeid ja taastades soolestiku tervist.\n\nLooduslikud viisid parasiidikoormuse vähendamiseks\n\n1. Küüslauk & sibul\n\nSisaldavad orgaanilisi väävliühendeid ja allitsiini, mis on tõhusad parasiitide ainevahetuse häirijad.\n\n2. Kukeseenepulber\n\nKukeseentes olevad hitinomannanaasid aitavad lagundada parasiitide kaitsekihte (biofilme).\n\n3. Nelk\n\nSisaldab eugenooli, mis on tõhus nii munade kui täiskasvanud parasiitvormide vastu\n\n4. Kõrvitsaseemned\n\nAktiivne ühend cucurbitacin aitab parasiite nõrgestada ja soodustab nende väljutamist.\n\n5. DeParaTox. Teaduspõhine ja looduslik tugi soolestiku “maastiku” taastamiseks\n\nDeParaTox (Black Stuff) ei toimi “antiparasiitiku” põhimõttel, vaid parandab sisekeskkonda, kus parasiidid ja seened ei suuda enam elada. Tegemist on erinevate ravimtaimede ja vürtside seguga.\n\nSee toetab:\n\n•\n\nmikroobse tasakaalu taastumist\n\n•\n\nparasiitide ja seente struktuuride lagundamist\n\n•\n\nraskmetallide, toksiinide ja mikroplastide sidumist\n\n•\n\nsoolestiku limaskesta paranemist\n\n•\n\nsapi- ja maksa tööd\n\nLooduslikud toimeained:puukoore polüfenoolid, koirohi, nelk, chaga, kurkumiin, fulvo- ja humiinhapped.\n\nFulvohapped on näidanud võimet parandada elektrolüütide transporti ja soolebarjääri seisundit, mis aitab vähendada põletikku ja lekkivat soolt.\n\nKuuri pikkus: 12 päeva, 2 kapslit 3× päevas toiduga.Ei vaja paastumist.\n\nSee ei sunni parasiite lahkuma. Ta taastab keha, mis ei luba neil enam olla.\n\nKuidas aru saada, et sul võivad olla parasiidid?\n\nKui seedimine ja mikrobioom on tasakaalust väljas, hakkab keha andma signaale.Sage on:• puhitus, gaasid, kõhukinnisus või ebastabiilne seedimine• seletamatu väsimus või “ajuudu”• magusaisu (eriti õhtuti)• ärrituvus / meeleolumuutused• nahaprobleemid (akne, ekseem)• unehäired või hammaste krigistamine öösel• seletamatu söögiisu – liiga suur või liiga väike• toitainete puudused (nt raud, B-vitamiinid) kuigi “toitud korralikult”\n\nNeed ei ole iseloomu ega tahtejõu küsimused – see on soolestiku–aju telje signaalimine.\n\nLooduslik parasiidikuur 1–2 korda aastas on tervise hügieen, mitte hirmustrateegia.\n\nLiitu hüpikaknas või jaluses uudiskirjaga ning saadame sulle sooduskoodi millega saad parasiidikuuri -20% soodsamalt!\n\nAllikad\n\n•\n\nWHO, Intestinal Parasite Infections, 2023\n\n•\n\nCDC Parasite Biology & Transmission Overview\n\n•\n\nFasano A. (2020). Intestinal permeability & leaky gut. Physiological Reviews.\n\n•\n\nNicholson et al. (2012). Gut microbiome & metabolic health. Nature.\n\n•\n\nCryan & Dinan (2019). Gut-Brain Axis. Nature Reviews Neuroscience.\n\n•\n\nAnkri & Mirelman (1999). Antimicrobial Properties of Allicin. Microbes & Infection.\n\n•\n\nChang et al. (2015). Eugenol & antiparasitic function. Biomed Research International.\n\n•\n\nGhosh et al. (2017). Fulvic acid & gut barrier repair. Journal of Food Science.\n\n•\n\nWinkler et al. (2021). Polyphenols & microbiome regulation. Nutrients.\n\nSoeta lihtne ja mugav parasiidikuur siit:\n\nDeParaTox taimne kompleks, 72 kapletti\n\nTõhusa koosluse moodustavad traditsiooniliselt väärtustatud taimed: koirohi, nelk, kaneel, männikoore ja musta pässiku ekstraktid, kurkum, nõges ja kummel – kõik ühes kapletis. Kaneel, kurkum ja kummel aitavad kaasa seedimise toetamisele ning keha loomuliku tasakaalu säilitamisele.\n\nOsta siit",
+      "image": "/blog/parasiidid.png",
+      "publishedAt": "2025-11-04",
+      "published": true,
+      "needsReview": true,
+      "sourceUrl": "https://blackstuff.ee/parasiidid/"
+    },
+    {
+      "id": "b5",
+      "slug": "kuidas-parandada-une-kvaliteeti-looduslike-toidulisanditega",
+      "title": "Kuidas parandada une kvaliteeti looduslike toidulisanditega?",
+      "author": "Maria Kruusenvald",
+      "excerpt": "Kuidas parandada une kvaliteeti ja võidelda uneprobleemidega looduslike vahenditega? Kas oled kogenud uneprobleeme, näiteks unetust, rahutut und või hommikust väsimust? Une kvaliteet mõjutab meie energiat, keskendumist ja üldist tervist. Lisaks headele uneharjumustele saab looduslike toidulisandite abil toetada keha ja mikrobioomi tervist, et magamine muutuks rahulikuks ja sügavaks. Üks selline toode on Black Stuff, mis [&hellip;]",
+      "content": "Kuidas parandada une kvaliteeti ja võidelda uneprobleemidega looduslike vahenditega?\n\nKas oled kogenud uneprobleeme, näiteks unetust, rahutut und või hommikust väsimust? Une kvaliteet mõjutab meie energiat, keskendumist ja üldist tervist. Lisaks headele uneharjumustele saab looduslike toidulisandite abil toetada keha ja mikrobioomi tervist, et magamine muutuks rahulikuks ja sügavaks.\n\nÜks selline toode on Black Stuff, mis sisaldab fulviin- ja humiinhapet, ligniine ja polüfenoolide kompleksi, mis aitavad keha sisekeskkonda tasakaalustada ja parandada une kvaliteeti.\n\n1. Soolestiku tervis ja uneprobleemid\n\nPaljud unetuse ja uneprobleemide põhjused peituvad soolestikus. Tervislik mikrobioom aitab reguleerida neurotransmittereid, sealhulgas serotoniini ja melatoniini, mis mõjutavad meie une-ärkveloleku rütmi.\n\nBlack Stuff toetab mikrobioomi tasakaalu ja:\n\n•\n\nvähendab põletikku, mis võib segada und\n\n•\n\ntoetab neurotransmitterite tootmist, parandades sügavat und\n\n•\n\naitab leevendada rahutut und ja öist ärkamist\n\n2. Energia tasakaal ja unetuse ennetamine\n\nMitokondrid vajavad une jaoks piisavat energiat. Fulviinhape Black Stuffis aitab rakkudel toitaineid omastada, mis:\n\n•\n\nvähendab hommikust väsimust\n\n•\n\nparandab une sügavust\n\n•\n\naitab vältida öist ärkamist ja rahutust\n\n3. Detoksifikatsioon ja rahulik uni\n\nÜks uneprobleemide põhjustajaid on keha koormus jääkainetega. Black Stuff toetab:\n\n•\n\ntoksiinide eemaldamist humiinhappe ja ligniinide abil\n\n•\n\nsoolestiku limaskesta terviklikkust, mis vähendab põletikku\n\n•\n\norganismi loomulikku puhastumist, et uni oleks sügav ja taastav\n\n4. Stressi vähendamine ja uneprobleemide leevendamine\n\nUnetus ja rahutu uni on sageli seotud stressi ja põletikuga. Black Stuff aitab:\n\n•\n\ntasakaalustada immuunsüsteemi reaktsioone\n\n•\n\nvähendada stressi põhjustatud põletikku\n\n•\n\ntoetada rahulikku ja sügavat und\n\n5. Aju ja soolestiku ühenduse mõju unetusele\n\nSoolestiku mikrobioom mõjutab aju ja une kvaliteeti. Black Stuff aitab:\n\n•\n\nsuurendada melatoniini tootmist\n\n•\n\nreguleerida GABA ja dopamiini taset\n\n•\n\nvähendada unetuse ja rahutu une sümptomeid\n\nKuidas Black Stuffi kasutada une parandamiseks\n\n•\n\nKapslid: 1 kapsel päevas hommikul peale ärkamist\n\n•\n\nPulber: 1 mõõtelusikatäis vees, mahlas või kohvis - kasuta hommikul enne sööki\n\n•\n\nToimeained on kuumusele vastupidavad, seega ei kaota mõju\n\nRegulaarne kasutamine aitab vähendada uneprobleeme, toetab rakkude energiatootmist ja mikrobioomi tervist.\n\nTäiendavad nipid uneprobleemide vähendamiseks\n\n•\n\nJärjepidev uneaeg: mine magama ja tõuse ärkama samal ajal\n\n•\n\nPimedus ja rahu: vähenda sinist valgust ja müra\n\n•\n\nLooduslik toit: kiudaineterikas ja polüfenooliderikas toit toetab mikrobioomi\n\n•\n\nFüüsiline aktiivsus: mõõdukas liikumine päeva jooksul toetab sügavat und\n\nKapslid\n\nPulber kapslis mugavaks allaneelamiseks\n\nPulber\n\nPisikese kulbiga mugav joogi sisse manustada\n\nTäitepakend\n\nPaberpakendis looduse säästmiseks\n\nKasutajate tagasiside une kohta:\n\nEgle:\n\nLiitu ka ja loe veel eestlaste tagasisidet meie Facebooki tervisegrupist:\n\nPiilu siit Black Stuff tervisegruppi\n\nOsta Black Stuff siit:\n\nPOODI",
+      "image": "/blog/kuidas-parandada-une-kvaliteeti-looduslike-toidulisanditega.png",
+      "publishedAt": "2025-10-20",
+      "published": true,
+      "needsReview": true,
+      "sourceUrl": "https://blackstuff.ee/kuidas-parandada-une-kvaliteeti-looduslike-toidulisanditega/"
+    },
+    {
+      "id": "b6",
+      "slug": "sugise-ja-talve-levinumad-tervisemuudid-mis-tegelikult-tootab-immuunsuse-toetamiseks",
+      "title": "Sügise ja talve levinumad tervisemüüdid: mis tegelikult töötab immuunsuse toetamiseks?",
+      "author": "Maria Kruusenvald",
+      "excerpt": "Sügis ja talv on periood, kus külmetushaigused, viirused ja väsimus kipuvad meid kergemini tabama. Just sel ajal hakkavad levima ka erinevad tervisenõuanded ja kiired nipid, kuidas immuunsust tõsta. Kuid millised neis…",
+      "content": "Sügise ja talve levinumad tervisemüüdid: mis tegelikult töötab immuunsuse toetamiseks?\n\nSügis ja talv on periood, kus külmetushaigused, viirused ja väsimus kipuvad meid kergemini tabama. Just sel ajal hakkavad levima ka erinevad tervisenõuanded ja kiired nipid, kuidas immuunsust tõsta. Kuid millised neist soovitustest on tegelikult tõhusad ja millised pigem müüdid?\n\nVaatame lähemalt levinumaid sügise ja talve tervisemüüte ja mis päriselt aitab immuunsust tugevdada?\n\nMüüt nr 1: „Topeltannus C-vitamiini hoiab haiguse eemal“\n\nPaljud usuvad, et suur kogus C-vitamiini on immuunsuse võtmetegur. Tegelikult ei suuda üks vitamiin üksi immuunsüsteemi kaitsta. Immuunsus sõltub mitmest tegurist:\n\n•\n\nmitmekesisest toitumisest,\n\n•\n\nkvaliteetsest unest,\n\n•\n\nsoolestiku mikrobioomi seisundist.\n\nKui toitainete omastamine on häiritud, ei pruugi ka vitamiinid ja mineraalid kehas õigesti imenduda.\n\nTõde: immuunsust ei tugevda üks aine, vaid tasakaalustatud menüü koos toimiva seedesüsteemiga.\n\nMüüt nr 2: „Külm ilm teeb haigeks“\n\nKülma ilmaga haigeks jäämine on müüt. Tegelikult ei tee temperatuur kedagi haigeks, seda teevad viirused ja bakterid. Küll aga võib külm ja pime aeg mõjutada immuunsust kaudselt, kui keha on stressis või unepuuduses.\n\nTõde: värskes õhus liikumine, ka jaheda ilmaga, toetab immuunsust ja parandab üldist enesetunnet.\n\nMüüt nr 3: „Vitamiinikuur sügisel on piisav“\n\nVitamiinikuur sügisel võib tunduda heaks lahenduseks, kuid keha vajab järjepidevat tuge iga päev. Ühekordsest kuurist ei piisa, et hoida immuunsust tugevana terve talve jooksul.\n\nTõde: immuunsust toetavad igapäevased harjumused: tasakaalustatud toitumine, piisav uni, liikumine ja soolestiku tervise hoidmine.\n\nBlack Stuffi roll immuunsuse toetamisel\n\nIsegi kui menüü on vitamiinide ja mineraalide poolest rikkalik, ei pruugi keha toitaineid maksimaalselt omastada. Toitainete imendumist mõjutavad stress, seedetrakti seisund ja mikrobioomi tasakaalutus.\n\nSiin tulebki appi Black Stuff, mis toetab immuunsust kahel olulisel viisil:\n\n•\n\nParandab toitainete omastamist: humiinhapped ja fulvohapped aitavad vitamiinidel ja mineraalidel tõhusamalt imenduda, et need jõuaksid rakkudeni.\n\n•\n\nToetab soolestiku mikrobioomi: kuna kuni 80% immuunsusest asub soolestikus, on tasakaalus mikrobioom immuunsuse seisukohalt ülioluline.\n\n•\n\nPakub antioksüdantset kaitset: aitab kehal toime tulla oksüdatiivse stressi ja keskkonnamõjudega, mis muidu võivad immuunsust nõrgestada.\n\nBlack Stuff tagab, et toitained jõuavad ka päriselt sinna, kus keha neid vajab.\n\nKokkuvõte: mis tegelikult töötab immuunsuse tugevdamisel sügisel ja talvel?\n\nSügise ja talve tervisemüüdid kõlavad sageli ahvatlevalt, kuid pikaajalist tuge need ei paku. Immuunsuse tugevdamine algab igapäevastest teadlikest valikutest:\n\n•\n\ntasakaalustatud ja toitainerikas menüü,\n\n•\n\npiisav uni ja stressi vähendamine,\n\n•\n\nregulaarne liikumine värskes õhus,\n\n•\n\nsoolestiku mikrobioomi toetamine.\n\nBlack Stuff aitab seda kõike toetada, soodustades toitainete imendumist ja hoides immuunsust tugevamana kogu sügise ja talve jooksul.\n\nImmunsuse tugevdamise stardipaketi saad tellida siit:\n\n•\n\n-20%\n\nBlack Stuff pulber, 90 kapslit + Oxifit spordijoogi pulber\n\n138,00 &euro; Algne hind oli: 138,00 &euro;.110,40 &euro;Praegune hind on: 110,40 &euro;.\n\nLisa korvi\n\n•\n\n-20%\n\nBlack Stuff pulber, 30g + 5 täitepakendit\n\n334,00 &euro; Algne hind oli: 334,00 &euro;.267,20 &euro;Praegune hind on: 267,20 &euro;.\n\nLisa korvi\n\n•\n\n-20%\n\n4 x Black Stuff kapslid, 90tk\n\n356,00 &euro; Algne hind oli: 356,00 &euro;.284,80 &euro;Praegune hind on: 284,80 &euro;.\n\nLisa korvi\n\n•\n\n-20%\n\nBlack Stuff pulber, 90 kapslit + DeParaTox, 72 kapletti\n\n148,00 &euro; Algne hind oli: 148,00 &euro;.118,40 &euro;Praegune hind on: 118,40 &euro;.\n\nLisa korvi\n\n•\n\nOxiFit spordijoogi pulber\n\n49,00 &euro;\n\nLisa korvi\n\n•\n\nBlack Stuff pulber, täitepakend, 30g\n\n55,00 &euro;\n\nLisa korvi\n\n•\n\n-15%\n\n-15%\n\n3x Black Stuff pulber, 30g\n\n147,00 &euro; Algne hind oli: 147,00 &euro;.125,00 &euro;Praegune hind on: 125,00 &euro;.\n\nLisa korvi\n\n•\n\nBlack Stuff kollageeniga mikrobioomi nahasprei, 100ml\n\n39,00 &euro;\n\nLisa korvi\n\n•\n\nDeParaTox taimne kompleks, 72 kapletti\n\n59,00 &euro;\n\nLisa korvi\n\n•\n\nBlack Stuff pulber, 90 kapslit\n\n89,00 &euro;\n\nLisa korvi\n\n•\n\nHappy Tummy magus trühvel\n\n49,00 &euro;\n\nLisa korvi\n\n•\n\nBlack Stuff pulber, 30 kapslit\n\n33,00 &euro;\n\nLisa korvi\n\n•\n\nBlack Stuff pulber, 30g\n\n59,00 &euro;\n\nLisa korvi",
+      "image": "/blog/sugise-ja-talve-levinumad-tervisemuudid-mis-tegelikult-tootab-immuunsuse-toetamiseks.png",
+      "publishedAt": "2025-09-29",
+      "published": true,
+      "needsReview": true,
+      "sourceUrl": "https://blackstuff.ee/sugise-ja-talve-levinumad-tervisemuudid-mis-tegelikult-tootab-immuunsuse-toetamiseks/"
+    },
+    {
+      "id": "b7",
+      "slug": "september-on-immuunsuse-test-kas-sinu-laps-on-valmis",
+      "title": "September on immuunsuse test – kas sinu laps on valmis?",
+      "author": "Maria Kruusenvald",
+      "excerpt": "September on immuunsuse proovikivi. Kas sinu laps on valmis?",
+      "content": "September on immuunsuse proovikivi. Kas sinu laps on valmis?\n\nMiks just nüüd peab immuunsusele mõtlema?\n\nKooliaasta ja lasteaia algus on alati eriline aeg: uued algused, rõõm ja rutiinide muutus. Lapsed satuvad kollektiivi, puutuvad kokku sadade teiste inimestega ja veedavad palju aega siseruumides. See on ideaalne pinnas, kus bakterid ja viirused saavad kiiresti levida.\n\nPole ime, et just septembris hakkavad paljud lapsed järjest haigestuma. Sageli tähendab see:❌ Katkist õppimisrütmi❌ Palju puudumisi❌ Vanematele muret ja töölt eemalolekut\n\nKas tead, mis on üllatav? Haigused ei tule niisama – need leiavad tee sinna, kus immuunsüsteem pole valmis.\n\nToit on oluline, aga… kas sellest piisab?\n\nJah, vitamiinidest tulvil toit on immuunsuse alus. C-vitamiin, D-vitamiin, tsink, probiootikumid – kõik need on hädavajalikud. Kui menüü sisaldab marju, värskeid köögivilju ja kala, on see suurepärane algus.\n\nAga nüüd tuleb suur AGA. Tänapäeva intensiivne põllumajandus on muutnud meie toiduainete toiteväärtust. Mullad on vaesunud, mineraale ja bioaktiivseid aineid on vähem kui kunagi varem. Lisaks on meie igapäevane stress, linnakeskkond ja keskkonnamürgid tegurid, mis nõrgendavad organismi loomulikku kaitsevõimet.\n\nLaste organism vajab rohkem kui lihtsalt “korralikku toitu”. Vajab lisatuge, mis aitab:✔ Imendada mineraale ja vitamiine efektiivsemalt✔ Tasakaalustada mikrobioomi (millelt sõltub 70% immuunsusest)✔ Kaitsta rakke oksüdatiivse stressi eest✔ Hoida keha loomulikku kaitset töökorras\n\nBlack Stuff – looduse ja teaduse vastus sinu lapse tervise toetamiseks\n\nBlack Stuff ei ole lihtsalt üks toidulisand. See on immuunsuse “turvavõrk”, mis toob lauale midagi, mida tänapäeva toit enam ei paku – fulvo- ja humiinhapped, polüfenoolid ja ligniinid, saadud männikoorest ja chagast.\n\nMida see sinu lapse jaoks tähendab?\n\n✔ Tugev immuunsus – aitab organismil paremini toitaineid omastada ja võidelda viirustega✔ Prebiootiline toime – toidab häid baktereid soolestikus, mis on immuunsuse vundament✔ Rakukaitse – antioksüdandid hoiavad rakud terved ja vastupidavad✔ Looduslik ja ohutu – 100% looduslikest allikatest, sobib ka lastele\n\nBlack Stuff on loodud teadusliku täpsusega ja selle koostis pole juhuslik – iga ühend on valitud selleks, et toetada organismi tasakaalu.\n\nMiks mitte oodata?\n\nSeptembris algab tõeline vastupidavuse test. Iga päev lasteaias või koolis tähendab kümneid uusi kokkupuuteid viirustega. Miks riskida sellega, et laps jääb haigeks, kui saad juba täna anda talle tugeva kaitse?\n\n✅ Black Stuff aitab:\n\n•\n\nHoida immuunsüsteemi tugevana kogu sügise\n\n•\n\nVähendada haiguste riski\n\n•\n\nToetada lapse igapäevast energiat ja õppimisvõimet\n\nTelli Black Stuff kohe ja anna lapsele parim algus uueks kooliaastaks!\n\nBlack Stuff – sinu lapse igapäevane looduse vägi, mis hoiab tervena ka siis, kui viirused koputavad uksele.\n\nPOODI\n\n•\n\n-20%\n\nBlack Stuff pulber, 90 kapslit + Oxifit spordijoogi pulber\n\n138,00 &euro; Algne hind oli: 138,00 &euro;.110,40 &euro;Praegune hind on: 110,40 &euro;.\n\nLisa korvi\n\n•\n\n-20%\n\nBlack Stuff pulber, 30g + 5 täitepakendit\n\n334,00 &euro; Algne hind oli: 334,00 &euro;.267,20 &euro;Praegune hind on: 267,20 &euro;.\n\nLisa korvi\n\n•\n\n-20%\n\n4 x Black Stuff kapslid, 90tk\n\n356,00 &euro; Algne hind oli: 356,00 &euro;.284,80 &euro;Praegune hind on: 284,80 &euro;.\n\nLisa korvi\n\n•\n\n-20%\n\nBlack Stuff pulber, 90 kapslit + DeParaTox, 72 kapletti\n\n148,00 &euro; Algne hind oli: 148,00 &euro;.118,40 &euro;Praegune hind on: 118,40 &euro;.\n\nLisa korvi\n\n•\n\nOxiFit spordijoogi pulber\n\n49,00 &euro;\n\nLisa korvi\n\n•\n\nBlack Stuff pulber, täitepakend, 30g\n\n55,00 &euro;\n\nLisa korvi\n\n•\n\n-15%\n\n-15%\n\n3x Black Stuff pulber, 30g\n\n147,00 &euro; Algne hind oli: 147,00 &euro;.125,00 &euro;Praegune hind on: 125,00 &euro;.\n\nLisa korvi\n\n•\n\nBlack Stuff kollageeniga mikrobioomi nahasprei, 100ml\n\n39,00 &euro;\n\nLisa korvi\n\n•\n\nDeParaTox taimne kompleks, 72 kapletti\n\n59,00 &euro;\n\nLisa korvi\n\n•\n\nBlack Stuff pulber, 90 kapslit\n\n89,00 &euro;\n\nLisa korvi\n\n•\n\nHappy Tummy magus trühvel\n\n49,00 &euro;\n\nLisa korvi\n\n•\n\nBlack Stuff pulber, 30 kapslit\n\n33,00 &euro;\n\nLisa korvi\n\n•\n\nBlack Stuff pulber, 30g\n\n59,00 &euro;\n\nLisa korvi",
+      "image": "/blog/september-on-immuunsuse-test-kas-sinu-laps-on-valmis.png",
+      "publishedAt": "2025-08-27",
+      "published": true,
+      "needsReview": true,
+      "sourceUrl": "https://blackstuff.ee/september-on-immuunsuse-test-kas-sinu-laps-on-valmis/"
+    },
+    {
+      "id": "b8",
+      "slug": "miks-tunned-vasimust-isegi-tervislikult-suues",
+      "title": "Miks tunned väsimust isegi tervislikult toitudes?",
+      "author": "Maria Kruusenvald",
+      "excerpt": "Miks tunned väsimust isegi tervislikult süües?",
+      "content": "Miks tunned väsimust isegi tervislikult süües?\n\nOled proovinud „tervislikku toitumist“, kuid tunned end ikka väsinuna? Seedimine on aeglane, kõht on tihti raske ja immuunsus justkui ei tööta? Põhjus võib olla lihtne:  keha ei saa kätte vajalikke mineraale ja toitaineid, sest tänapäeva muld on toitainetevaene.\n\nMiks tänapäeva toit ei anna enam piisavalt mineraale?\n\nViimase 50 aasta jooksul on intensiivne põllumajandus, pestitsiidid ja keemilised väetised tühjendanud mulla toitainetest. Selle tulemusena sisaldavad köögiviljad, puuviljad ja isegi liha täna kuni 70% vähem mineraale kui varem. Kui toidus pole piisavalt vajalikke aineid, ei saa meie keha neid kusagilt.\n\nMis juhtub, kui organismil on mineraalide puudus?\n\nKui kehal on toitainete puudus, võib see põhjustada:✔ kroonilist väsimust ja energiapuudust✔ nõrgenenud immuunsust✔ halba seedimist ja kõhuprobleeme✔ ainevahetuse aeglustumist\n\nPole ime, et paljud inimesed otsivad abi detox-kuuridest ja looduslikest toidulisanditest.\n\nKuidas keha uuesti tasakaalu saada?\n\nSiin tuleb appi Black Stuff – looduslik toidulisand, mis aitab:✔ eemaldada toksiine kehast ja siduda raskemetalle✔ parandada seedimist ja toetada soolestiku mikrofloorat✔ soodustada toitainete ja mineraalide omastamist✔ taastada energiat ja tugevdada immuunsust\n\nBlack Stuff põhineb orgaanilistel ühenditel, mis aitavad organismil puhastuda ja omastada seda vähest, mida toit veel pakub.\n\nMiks on detox ja mineraalide taastamine oluline just praegu?\n\nKeha koormab igapäevane stress, keskkonnatoksiinid ja toitainete puudus. Looduslik puhastus ja mikrofloora tasakaalon parim viis immuunsuse tugevdamiseks ja hea enesetunde taastamiseks.\n\n🌿 Alusta sisemisest tasakaalust – Black Stuff aitab sul keha puhastada ja energiataset tõsta.\n\n•\n\n-20%\n\nBlack Stuff pulber, 90 kapslit + Oxifit spordijoogi pulber\n\n138,00 &euro; Algne hind oli: 138,00 &euro;.110,40 &euro;Praegune hind on: 110,40 &euro;.\n\nLisa korvi\n\n•\n\n-20%\n\nBlack Stuff pulber, 30g + 5 täitepakendit\n\n334,00 &euro; Algne hind oli: 334,00 &euro;.267,20 &euro;Praegune hind on: 267,20 &euro;.\n\nLisa korvi\n\n•\n\n-20%\n\n4 x Black Stuff kapslid, 90tk\n\n356,00 &euro; Algne hind oli: 356,00 &euro;.284,80 &euro;Praegune hind on: 284,80 &euro;.\n\nLisa korvi\n\n•\n\n-20%\n\nBlack Stuff pulber, 90 kapslit + DeParaTox, 72 kapletti\n\n148,00 &euro; Algne hind oli: 148,00 &euro;.118,40 &euro;Praegune hind on: 118,40 &euro;.\n\nLisa korvi\n\n•\n\nOxiFit spordijoogi pulber\n\n49,00 &euro;\n\nLisa korvi\n\n•\n\nBlack Stuff pulber, täitepakend, 30g\n\n55,00 &euro;\n\nLisa korvi\n\n•\n\n-15%\n\n-15%\n\n3x Black Stuff pulber, 30g\n\n147,00 &euro; Algne hind oli: 147,00 &euro;.125,00 &euro;Praegune hind on: 125,00 &euro;.\n\nLisa korvi\n\n•\n\nBlack Stuff kollageeniga mikrobioomi nahasprei, 100ml\n\n39,00 &euro;\n\nLisa korvi\n\n•\n\nDeParaTox taimne kompleks, 72 kapletti\n\n59,00 &euro;\n\nLisa korvi\n\n•\n\nBlack Stuff pulber, 90 kapslit\n\n89,00 &euro;\n\nLisa korvi\n\n•\n\nHappy Tummy magus trühvel\n\n49,00 &euro;\n\nLisa korvi\n\n•\n\nBlack Stuff pulber, 30 kapslit\n\n33,00 &euro;\n\nLisa korvi\n\n•\n\nBlack Stuff pulber, 30g\n\n59,00 &euro;\n\nLisa korvi",
+      "image": "/blog/miks-tunned-vasimust-isegi-tervislikult-suues.png",
+      "publishedAt": "2025-08-19",
+      "published": true,
+      "needsReview": true,
+      "sourceUrl": "https://blackstuff.ee/miks-tunned-vasimust-isegi-tervislikult-suues/"
+    },
+    {
+      "id": "b9",
+      "slug": "koostoo-eesti-metsa-abiks",
+      "title": "Koostöö Eesti Metsa Abiks",
+      "author": "Sven",
+      "excerpt": "Black Stuff ja MTÜ Eesti Metsa Abiks Koostöö tervise ja metsade kaitseks Meil on hea meel teatada, et Black Stuff on alustanud koostööd MTÜga Eesti Metsa Abiks (EMA), et toetada Eesti metsade kaitset ja säästvat majandamist. Annetame igalt tellimuselt 0,50 eurot EMA tegevuste toetuseks. Miks just MTÜ Eesti Metsa Abiks? MTÜ Eesti Metsa Abiks on [&hellip;]",
+      "content": "Black Stuff ja MTÜ Eesti Metsa Abiks\n\nKoostöö tervise ja metsade kaitseks\n\nMeil on hea meel teatada, et Black Stuff on alustanud koostööd MTÜga Eesti Metsa Abiks (EMA), et toetada Eesti metsade kaitset ja säästvat majandamist. Annetame igalt tellimuselt 0,50 eurot EMA tegevuste toetuseks.\n\nMiks just MTÜ Eesti Metsa Abiks?\n\nMTÜ Eesti Metsa Abiks on pühendunud Eesti metsade ja looduse kaitsmisele, seistes vastu liigsele raiele ja edendades säästvat metsandust. Nende missioon on säilitada Eesti metsade looduslik tasakaal ja edendada metsade säilitamist tulevastele põlvedele.\n\nBlack Stuffi meeskonna jaoks on need väärtused äärmiselt olulised. Usume, et hooliv suhtumine loodusesse ja tervisesse käivad käsikäes. Just seetõttu tundsime, et koostöö EMA-ga on meie jaoks loomulik valik.\n\nKuidas on Black Stuff seotud metsaga?\n\nBlack Stuffi tooted on tihedalt seotud metsaga – meie peamised koostisosad, männikoor ja must pässik, pärinevad otse loodusest. Need looduslikud komponendid on tuntud oma tervist toetavate omaduste poolest, sealhulgas immuunsüsteemi toetamine ja seedimise tasakaalustamine.\n\nMõistes, kui oluline on looduslike ressursside säilitamine, soovime anda oma panuse metsade kaitsmisse ja toetada neid, kes seisavad selle eest igapäevaselt. Koostöö EMA-ga annab meile võimaluse aidata kaasa Eesti metsade säilimisele ja kestlikkusele.\n\nMida see koostöö tähendab?\n\n• Annetus igalt tellimuselt: Iga Black Stuffi tellimusega annetatakse 0,50 eurot EMA toetuseks. See tähendab, et iga ost toetab otseselt Eesti metsade säilitamist ja kaitset.\n\n• Teadlikkuse tõstmine: Meie eesmärk on mitte ainult pakkuda tervisetooteid, vaid ka tõsta teadlikkust looduse hoidmise tähtsusest.\n\n• Jagatud väärtused: Nii Black Stuff kui EMA usuvad, et hoolimine loodusest ja enda tervisest peaks olema eluviis, mida edendatakse igal võimalusel.\n\nKuidas sina saad kaasa aidata?\n\nLiitudes meie kogukonnaga ja tehes ostu Black Stuffi e-poes, annad ka sina oma panuse Eesti metsade säilitamisse. Iga tellimus loeb ja aitab EMA-l jätkata oma olulist tööd Eesti looduse heaks. Lisaks on sul võimalus EMA kodulehel teha ka otse ühekordne annetus või hakata püsiannetajaks. www.eestimetsaabiks.ee/toeta/\n\nMeie jaoks on see rohkem kui koostöö – see on samm lähemale parema tuleviku loomiseks nii inimeste kui ka looduse jaoks.\n\nAitäh, et hoolid koos meiega! 🌿\n\nBlack Stuff Eesti",
+      "image": "/blog/koostoo-eesti-metsa-abiks.png",
+      "publishedAt": "2025-01-07",
+      "published": true,
+      "needsReview": false,
+      "sourceUrl": "https://blackstuff.ee/koostoo-eesti-metsa-abiks/"
+    },
+    {
+      "id": "b10",
+      "slug": "soolatuukad-ja-seedesusteem",
+      "title": "Soolatüükad ja seedesüsteem",
+      "author": "Sven",
+      "excerpt": "Soolatüügaste näol on tegemist healoomuliste kasvajaliste moodustistega nahal ja neid põhjustab inimese papilloomiviirus (HPV). Soolatüükad on levinud dermatoloogiline seisund, mis mõjutab inimesi igas vanuses. Kuigi paljud meist peavad neid vaid nahal olevateks tüütusteks, siis hiljutised uuringud on toonud päevavalgele huvitava seose soolatüügaste ja meie seedesüsteemi vahel. See avastus on avanud uusi uurimissuundi ja võimalikke ravivõimalusi [&hellip;]",
+      "content": "Soolatüügaste näol on tegemist healoomuliste kasvajaliste moodustistega nahal ja neid põhjustab inimese papilloomiviirus (HPV). Soolatüükad on levinud dermatoloogiline seisund, mis mõjutab inimesi igas vanuses. Kuigi paljud meist peavad neid vaid nahal olevateks tüütusteks, siis hiljutised uuringud on toonud päevavalgele huvitava seose soolatüügaste ja meie seedesüsteemi vahel. See avastus on avanud uusi uurimissuundi ja võimalikke ravivõimalusi soolatüügastest vabanemiseks. Mida peaksime teadma soolatüügaste ja seedesüsteemiga seoses:\n\nSeedesüsteem ja immuunsus\n\nMeie seedesüsteem mängib olulist rolli inimese üldises tervislikus seisundis ning teeb tihedat koostööd meie immuunsüsteemiga. Mikrobioom ehk soolestikus elavad miljonid kasulikud bakterid, aitavad seedimisprotsessi ning toetavad immuunsüsteemi funktsiooni. Uuringud viitavad sellele, et soole mikrobioomi tasakaaluhäired, mida tuntakse düsbioosina, avaldavad väga suurt mõju meie üldisele tervislikule seisundile, sealhulgas immuunsüsteemile.\n\nDüsbioosi ja soolatüükad\n\nMitmed uuringud on täheldanud seost soole mikrobioomi tasakaaluhäirete ja soolatüügaste esinemise vahel. Tasakaalust väljas olev mikrobioomi võib kahjustada immuunsüsteemi võimet võidelda HPV-nakkustega, mis võib potentsiaalselt viia tüüka tekkimiseni. Lisaks võib düsbioos kaasa aidata kroonilisele põletikule, mis võib omakorda tüüka tekke protsessi lihtsustada.\n\nKuidas soolatüügastest lahti saada?\n\nKõik algab toidulaualt ehk esimese asjana võiks pöörata tähelepanu oma toiduvalikule ja rõhku panna mikrobioomi hoidmisele ja parendamisele. Suurenda menüüs taimse ja kiudainerikka toidu osakaalu ning vähenda töödeldud toitude tarbimist. Samuti mängivad rolli elustiil ja füüsiline aktiivsus.\n\nTugevdades oma seedesüsteemi paraneb läbi selle ka meie immuunsüsteem, mis vähendab soolatüügaste tekke võimalust ja aitab juba olemasolevaid ravida. Black Stuffi kliendid on täheldanud erinevate nahaseisundite muutuseid nagu konnasilmade, soolatüügaste ja ekseemi kadumist peale Black Stuffi pikema kuuri läbimist. Muutused ei juhtu loomulikult üleöö ja oma tervise eest hoolt kandmine on elukestev protsess. Seega soovitame siduda Black Stuffi tooted oma ellu ka püsivalt nii soolatüügaste kui ka üleüldise tervisliku seisundi parandamiseks.\n\nEnne\n\nPärast\n\nViited:\n\n• Centers for Disease Control and Prevention. (2021). Human Papillomavirus (HPV). Retrieved from https://www.cdc.gov/hpv/index.html (Tõlgitud: Inimese papilloomiviirus (HPV). Saadaval aadressil https://www.cdc.gov/hpv/index.html)\n\n• Carding, S., Verbeke, K., Vipond, D. T., et al. (2015). Dysbiosis of the gut microbiota in disease. Microbial Ecology in Health and Disease, 26(1), 26191. doi:10.3402/mehd.v26.26191 (Tõlgitud: Soole mikrobiota düsbioos haiguses. Microbial Ecology in Health and Disease, 26(1), 26191. doi:10.3402/mehd.v26.26191)\n\n• Weller, R. (2021). The gut microbiome and skin diseases: A new frontier. British Journal of Dermatology, 184(3), 431-432 (Tõlgitud: Soole mikrobioom ja nahahaigused: uus piiriala. British Journal of Dermatology, 184(3), 431-432)",
+      "image": "/blog/soolatuukad-ja-seedesusteem.png",
+      "publishedAt": "2023-11-21",
+      "published": true,
+      "needsReview": true,
+      "sourceUrl": "https://blackstuff.ee/soolatuukad-ja-seedesusteem/"
+    }
+  ],
+  "orders": [
+    {
+      "id": "BS--OMUYKIN",
+      "createdAt": "2026-10-21T13:18:56.395Z",
+      "status": "uus",
+      "items": [
+        {
+          "productId": "p-powder",
+          "name": "Black Stuff pulber, 30g",
+          "price": 59,
+          "quantity": 1,
+          "image": "/products/powder.webp"
+        }
+      ],
+      "subtotal": 59,
+      "shipping": 3.5,
+      "total": 62.5,
+      "customer": {
+        "email": "rasmusseire99@gmail.com",
+        "phone": "53070361",
+        "firstName": "KHP",
+        "lastName": "Tahvel"
+      },
+      "shippingAddress": {
+        "street": "Lai 71",
+        "city": "Paide",
+        "postalCode": "72715",
+        "country": "Eesti"
+      },
+      "shippingMethod": "Omniva pakiautomaat",
+      "paymentMethod": "montonio",
+      "notes": "",
+      "isDemo": false,
+      "paymentStatus": "cancelled",
+      "montonioUuid": "9de38cd7-f377-42e8-adce-596130cc9a2f"
+    }
+  ],
+  "contactMessages": [],
+  "pages": {
+    "tarne": {
+      "title": "Tarneinfo",
+      "body": "## Tarneviisid\n\nEeldatud tarnekanalid Eestis: Omniva pakiautomaat, SmartPost / Montonio pakiautomaat ja kuller.\n\n## Tasuta tarne\n\nTasuta tarne alates määratud summast (vt kassa / saidi seadistus).\n\n## Tähtajad\n\nTüüpilised tarneajad kinnitatakse operaatoritega."
+    },
+    "tingimused": {
+      "title": "Ostutingimused",
+      "body": "## 1. Üldine\n\nKäesolevad tingimused kehtivad Black Stuff Eesti e-poe ostudele.\n\n## 2. Tellimused ja hinnad\n\nHinnad on eurodes.\n\n## 3. Maksmine\n\nMaksekanal: Montonio (pangalingid, kaardimaksed).\n\n## 4. Taganemisõigus\n\nTarbijakaitseseaduse kohane taganemisõigus – täiendada vajadusel."
+    },
+    "privaatsus": {
+      "title": "Privaatsuspoliitika",
+      "body": "## Andmete kasutamine\n\nTöötleme tellimuste, kontaktivormi ja makse-/tarneintegratsioonide jaoks vajalikke kontakt- ja tarneandmeid.\n\nMaksekaardi andmeid meie süsteem ei salvesta – makse toimub Montonio kaudu."
+    },
+    "kupsised": {
+      "title": "Küpsised",
+      "body": "Kasutame tehnilisi küpsiseid ostukorvi ja admin-sessiooni jaoks. Analüütika küpsised lisatakse vaid siis, kui need on kasutusele võetud."
+    },
+    "teadus": {
+      "title": "Teadus",
+      "body": "Black Stuffi on uuritud ja testitud muu hulgas Hamiltoni laboris, Auctoritase laboris, Riia Stradiņši Meditsiiniülikoolis ning Läti Ülikoolis.\n\nTäielikud uuringuviited ja laboritulemused – uuenda seda teksti administ."
+    },
+    "kontakt": {
+      "title": "Kontakt",
+      "body": "Kirjuta meile või helista. Vastame esimesel võimalusel."
+    },
+    "edasimuujad": {
+      "title": "Edasimüüjad",
+      "body": "Black Stuffi tooteid leiad valitud apteekidest ja partnerpoodidest üle Eesti. Soovid edasimüüjaks hakata? Võta ühendust."
+    },
+    "mis-on-black-stuff": {
+      "title": "Mis on Black Stuff?",
+      "body": "Black Stuff on looduslik prebiootiline toidulisand männikoore ja chaga ekstraktidel. Täienda seda lehte administ."
+    }
+  }
+}
