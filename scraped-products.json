@@ -1,0 +1,108 @@
+﻿[
+    {
+        "name":  "DeParaTox taimne kompleks, 72 kapletti",
+        "prices":  "59,00",
+        "href":  "https://blackstuff.ee/toode/deparatox-taimne-kompleks/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2024/02/DeParaTox-taimne-kompleks-detoks-Balckstuff-600x600.png",
+        "slug":  "deparatox-taimne-kompleks"
+    },
+    {
+        "name":  "Black Stuff pulber, 90 kapslit",
+        "prices":  "89,00",
+        "href":  "https://blackstuff.ee/toode/black-stuff-3-kuu-kapslid/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2023/03/BB90--600x600.png",
+        "slug":  "black-stuff-3-kuu-kapslid"
+    },
+    {
+        "name":  "Black Stuff pulber, 30 kapslit",
+        "prices":  "33,00",
+        "href":  "https://blackstuff.ee/toode/black-stuff-1-kuu-kapslid/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2023/03/BB-30-600x600.png",
+        "slug":  "black-stuff-1-kuu-kapslid"
+    },
+    {
+        "name":  "Black Stuff pulber, 30g",
+        "prices":  "59,00",
+        "href":  "https://blackstuff.ee/toode/black-stuff-pulber/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2023/03/BB-pulber-600x600.png",
+        "slug":  "black-stuff-pulber"
+    },
+    {
+        "name":  "Black Stuff pulber, täitepakend, 30g",
+        "prices":  "55,00",
+        "href":  "https://blackstuff.ee/toode/black-stuff-pulber-taitepakk/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2025/05/Black-Stuff-prebiootikum-pulber-taitepakk--600x600.png",
+        "slug":  "black-stuff-pulber-taitepakk"
+    },
+    {
+        "name":  "OxiFit spordijoogi pulber",
+        "prices":  "49,00",
+        "href":  "https://blackstuff.ee/toode/oxifit-spordijoogi-pulber/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2025/05/OxiFit-Prebiootiline-spordijoogi-pulber1-600x600.webp",
+        "slug":  "oxifit-spordijoogi-pulber"
+    },
+    {
+        "name":  "Black Stuff kollageeniga mikrobioomi nahasprei, 100ml",
+        "prices":  "39,00",
+        "href":  "https://blackstuff.ee/toode/black-stuff-kollageeniga-mikrobioomi-nahasprei/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2024/06/Kolageeni-spray-600x600.png",
+        "slug":  "black-stuff-kollageeniga-mikrobioomi-nahasprei"
+    },
+    {
+        "name":  "Happy Tummy magus trühvel",
+        "prices":  "49,00",
+        "href":  "https://blackstuff.ee/toode/happy-tummy/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2023/03/Black-Stuff-happy-tummy-lastele-600x600.png",
+        "slug":  "happy-tummy"
+    },
+    {
+        "name":  "3x Black Stuff pulber, 30g",
+        "prices":  [
+                       "147,00",
+                       "125,00"
+                   ],
+        "href":  "https://blackstuff.ee/toode/komplektid-3x-black-stuff-pulber/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2024/11/Pulber-600x600.webp",
+        "slug":  "komplektid-3x-black-stuff-pulber"
+    },
+    {
+        "name":  "Black Stuff pulber, 90 kapslit + Oxifit spordijoogi pulber",
+        "prices":  [
+                       "138,00",
+                       "110,40"
+                   ],
+        "href":  "https://blackstuff.ee/toode/blackstuff-3-kuu-kapslid-oxifit-spordijook/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2025/08/oxiblack-1-600x600.png",
+        "slug":  "blackstuff-3-kuu-kapslid-oxifit-spordijook"
+    },
+    {
+        "name":  "Black Stuff pulber, 30g + 5 täitepakendit",
+        "prices":  [
+                       "334,00",
+                       "267,20"
+                   ],
+        "href":  "https://blackstuff.ee/toode/12-kuud-blackstuff-pulber/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2025/08/blackstuff-6x2kuud-1-600x600.png",
+        "slug":  "12-kuud-blackstuff-pulber"
+    },
+    {
+        "name":  "4 x Black Stuff kapslid, 90tk",
+        "prices":  [
+                       "356,00",
+                       "284,80"
+                   ],
+        "href":  "https://blackstuff.ee/toode/4-x-3-kuu-blackstuff-kapslid/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2025/08/Screenshot-2025-08-07-at-19.32.21-1-600x600.png",
+        "slug":  "4-x-3-kuu-blackstuff-kapslid"
+    },
+    {
+        "name":  "Black Stuff pulber, 90 kapslit + DeParaTox, 72 kapletti",
+        "prices":  [
+                       "148,00",
+                       "118,40"
+                   ],
+        "href":  "https://blackstuff.ee/toode/blacstuff-kapslid-deparatox/",
+        "img":  "https://blackstuff.ee/wp-content/uploads/2025/08/bundle-1-600x600.png",
+        "slug":  "blacstuff-kapslid-deparatox"
+    }
+]
